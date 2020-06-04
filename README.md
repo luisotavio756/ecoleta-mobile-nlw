@@ -4,9 +4,9 @@
    Ecoleta Mobile App of the Next Level Week #01
 </h1>
 <div align="center">
-	<img src="https://res.cloudinary.com/luisotavio756/image/upload/v1591293979/Screenshot_20200604-150116_rc75fs.png" />
-	<img src="https://res.cloudinary.com/luisotavio756/image/upload/v1591293979/Screenshot_20200604-150129_if1obv.png" />
-	<img src="https://res.cloudinary.com/luisotavio756/image/upload/v1591293979/Screenshot_20200604-150140_xdmcmj.png" />
+	<img src="https://res.cloudinary.com/luisotavio756/image/upload/c_fill,w_199/v1591293979/Screenshot_20200604-150116_rc75fs.png" />
+	<img src="https://res.cloudinary.com/luisotavio756/image/upload/c_fill,w_199/v1591293979/Screenshot_20200604-150129_if1obv.png" />
+	<img src="https://res.cloudinary.com/luisotavio756/image/upload/c_fill,w_199/v1591293979/Screenshot_20200604-150140_xdmcmj.png" />
 </div>
 
 
