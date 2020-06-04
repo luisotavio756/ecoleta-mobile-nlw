@@ -25,6 +25,7 @@ This project was developed in Personal Project join Flaviano, my friend, with th
 
 -  [React Native](https://reactnative.dev)
 -  [Expo](https://expo.io)
+-  [TypeScript](https://www.typescriptlang.org/)
 
 ## :information_source: How To Use
 
